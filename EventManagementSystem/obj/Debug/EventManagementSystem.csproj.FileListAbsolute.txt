@@ -1,0 +1,176 @@
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\EventManagementSystem.dll.config
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\EventManagementSystem.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\EventManagementSystem.pdb
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\EntityFramework.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Owin.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\System.Web.Razor.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\WebGrease.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\EntityFramework.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\System.Web.Razor.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.dll
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.pdb
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.Migrations.version1.resources
+C:\Users\nasir\Desktop\EMS\EventManagementSystem\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.GenerateResource.Cache
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\EventManagementSystem.dll.config
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\EventManagementSystem.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\EventManagementSystem.pdb
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\EntityFramework.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Owin.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Rotativa.Core.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Rotativa.MVC.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\System.Web.Razor.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\WebGrease.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\EntityFramework.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\System.Web.Razor.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\obj\Debug\EventManagementSystem.Migrations.version1.resources
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\obj\Debug\EventManagementSystem.Migrations.version5.resources
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\obj\Debug\EventManagementSystem.Migrations.version8.resources
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\obj\Debug\EventManagementSystem.Migrations.version9.resources
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.GenerateResource.Cache
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\obj\Debug\EventManagementSystem.dll
+C:\Users\nasir\Desktop\EMS\Online-Event-Management-System\EventManagementSystem\obj\Debug\EventManagementSystem.pdb
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\EventManagementSystem.dll.config
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\EventManagementSystem.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\EventManagementSystem.pdb
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Antlr3.Runtime.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\EntityFramework.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Newtonsoft.Json.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Owin.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Rotativa.Core.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Rotativa.MVC.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\System.Web.Helpers.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\System.Web.Mvc.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\System.Web.Optimization.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\System.Web.Razor.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\System.Web.WebPages.Deployment.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\System.Web.WebPages.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\System.Web.WebPages.Razor.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\WebGrease.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\EntityFramework.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\System.Web.Helpers.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\System.Web.Mvc.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\System.Web.Optimization.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\System.Web.Razor.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\System.Web.WebPages.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\System.Web.WebPages.Deployment.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\System.Web.WebPages.Razor.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Newtonsoft.Json.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Antlr3.Runtime.pdb
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\obj\Debug\EventManagementSystem.csprojResolveAssemblyReference.cache
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\obj\Debug\EventManagementSystem.dll
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\obj\Debug\EventManagementSystem.pdb
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\obj\Debug\EventManagementSystem.Migrations._01.resources
+G:\Hasan Mahmud\Projects\MINE\Event-Management-System-Final-Release\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.GenerateResource.Cache
